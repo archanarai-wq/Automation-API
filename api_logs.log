@@ -1,0 +1,46 @@
+2026-02-23 16:12:13,976 - INFO - Verifying status code: 200
+2026-02-23 16:12:13,977 - INFO - Verifying response length
+2026-02-23 16:12:14,795 - INFO - Verifying status code: 200
+2026-02-23 16:12:14,795 - INFO - Verifying response key: id
+2026-02-23 16:12:15,513 - INFO - Verifying status code: 200
+2026-02-23 16:12:15,513 - INFO - Verifying response key: id
+2026-02-23 16:12:16,229 - INFO - Verifying status code: 200
+2026-02-23 16:12:16,230 - INFO - Verifying response key: id
+2026-02-23 16:12:16,244 - INFO - Creating new post
+2026-02-23 16:12:17,661 - INFO - Verifying status code: 201
+2026-02-23 16:12:17,662 - INFO - Verifying response key: title
+2026-02-23 16:12:17,672 - INFO - Creating new post
+2026-02-23 16:12:19,023 - INFO - Verifying status code: 201
+2026-02-23 16:12:19,029 - INFO - Verifying response key: title
+2026-02-23 16:12:20,262 - INFO - Verifying status code: 200
+2026-02-23 16:12:20,263 - INFO - Verifying response key: title
+2026-02-23 16:12:21,967 - INFO - Verifying status code: 200
+2026-02-23 16:12:23,602 - INFO - Verifying status code: 404
+2026-02-23 16:12:23,609 - INFO - Creating new post
+2026-02-23 16:12:25,035 - INFO - Verifying status code: 201
+2026-02-23 16:12:26,062 - INFO - Verifying status code: 200
+2026-02-23 16:13:58,528 - INFO - Verifying status code: 200
+2026-02-23 16:13:58,529 - INFO - Verifying response length
+2026-02-23 16:13:59,402 - INFO - Verifying status code: 200
+2026-02-23 16:13:59,402 - INFO - Verifying response key: id
+2026-02-23 16:14:00,166 - INFO - Verifying status code: 200
+2026-02-23 16:14:00,167 - INFO - Verifying response key: id
+2026-02-23 16:14:00,780 - INFO - Verifying status code: 200
+2026-02-23 16:14:00,781 - INFO - Verifying response key: id
+2026-02-23 16:14:00,795 - INFO - Creating new post
+2026-02-23 16:14:01,804 - INFO - Verifying status code: 201
+2026-02-23 16:14:01,804 - INFO - Verifying response key: title
+2026-02-23 16:14:01,816 - INFO - Creating new post
+2026-02-23 16:14:03,150 - INFO - Verifying status code: 201
+2026-02-23 16:14:03,150 - INFO - Verifying response key: title
+2026-02-23 16:14:04,560 - INFO - Verifying status code: 200
+2026-02-23 16:14:04,560 - INFO - Verifying response key: title
+2026-02-23 16:14:05,592 - INFO - Verifying status code: 200
+2026-02-23 16:14:06,205 - INFO - Verifying status code: 404
+2026-02-23 16:14:06,217 - INFO - Creating new post
+2026-02-23 16:14:07,034 - INFO - Verifying status code: 201
+2026-02-23 16:14:07,639 - INFO - Verifying status code: 200
+2026-02-23 16:14:07,640 - INFO - Verifying response length
+2026-02-23 16:14:08,360 - INFO - Verifying status code: 200
+2026-02-23 16:14:08,361 - INFO - Verifying response length
+2026-02-23 16:14:08,978 - INFO - Verifying status code: 200

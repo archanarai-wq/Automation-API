@@ -1,0 +1,19 @@
+{
+  "create_post": [
+    {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    },
+    {
+      "title": "baz",
+      "body": "qux",
+      "userId": 2
+    }
+  ],
+  "update_post": {
+    "title": "updated title",
+    "body": "updated body",
+    "userId": 1
+  }
+}
